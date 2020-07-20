@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc7a1944-2d27-4603-8646-a2152e851ba6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WyT32wBCIturQjeeDC2pAZ9Wyi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/K/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc7a1944-2d27-4603-8646-a2152e851ba6" name="Default Changelist" comment="" />
+      <created>1580120631549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580120631549</updated>
+      <workItem from="1580120632933" duration="17118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580135081083">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580135081083" />
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580120767528">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1580120767528" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1580140730830">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580136873763" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580140730830" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1580140730829">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580136873761" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1580140730829" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1580140730828">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580136873759" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1580140730828" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1580140730830">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580136873762" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1580140730830" />
+    <state width="1419" height="245" key="GridCell.Tab.1.bottom" timestamp="1580140730832">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580136873766" />
+    <state width="1419" height="245" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1580140730832" />
+    <state width="1419" height="245" key="GridCell.Tab.1.center" timestamp="1580140730831">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580136873764" />
+    <state width="1419" height="245" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1580140730831" />
+    <state width="1419" height="245" key="GridCell.Tab.1.left" timestamp="1580140730831">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580136873764" />
+    <state width="1419" height="245" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1580140730831" />
+    <state width="1419" height="245" key="GridCell.Tab.1.right" timestamp="1580140730832">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580136873765" />
+    <state width="1419" height="245" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1580140730832" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1580124854885">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1580124854885" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580129753370">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580129753370" />
+  </component>
+</project>
